@@ -1,0 +1,2 @@
+# BungeeBan
+Bannen über MySQL
